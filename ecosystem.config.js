@@ -1,7 +1,7 @@
 module.exports = {
     apps : [
     {
-      name: 'Church-app API Gateway',
+      name: 'Church-admin API Gateway',
       script: 'app.js', 
       instances: 1,
       autorestart: true,
