@@ -5,17 +5,17 @@ module.exports = {
 			path:"accounts",
 			port:"3031"
 		},
-		// {
-		// 	path:"pasters",
-		// 	port:"3002"
-		// },
+		{
+			path:"users",
+			port:"3032"
+		},
 		// {
 		// 	path:"events",
-		// 	port:"3003"
+		// 	port:"3033"
 		// },
 		// {
 		// 	path:"groups",
-		// 	port:"3004"
+		// 	port:"3034"
 		// },
 		{
 			path:"masters",
@@ -23,27 +23,27 @@ module.exports = {
 		},
 		// {
 		// 	path:"buyorsell",
-		// 	port:"3006"
+		// 	port:"3036"
 		// },
 		// {
 		// 	path:"feeds",
-		// 	port:"3007"
+		// 	port:"3037"
 		// },
 		// {
 		// 	path:"matrimonies",
-		// 	port:"3008"
+		// 	port:"3038"
 		// },
 		// {
 		// 	path:"bloodDonation",
-		// 	port:"3009"
+		// 	port:"3039"
 		// },
 		// {
 		// 	path:"charities",
-		// 	port:"3010"
+		// 	port:"3040"
 		// },
 		// {
 		// 	path:"urogulf",
-		// 	port:"3011"
+		// 	port:"3041"
 		// }
 
 
