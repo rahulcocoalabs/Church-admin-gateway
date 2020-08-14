@@ -17,10 +17,10 @@ module.exports = {
 		// 	path:"groups",
 		// 	port:"3004"
 		// },
-		// {
-		// 	path:"masters",
-		// 	port:"3005"
-		// },
+		{
+			path:"masters",
+			port:"3035"
+		},
 		// {
 		// 	path:"buyorsell",
 		// 	port:"3006"
