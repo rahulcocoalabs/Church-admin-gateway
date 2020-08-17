@@ -25,10 +25,10 @@ module.exports = {
 		// 	path:"buyorsell",
 		// 	port:"3036"
 		// },
-		// {
-		// 	path:"feeds",
-		// 	port:"3037"
-		// },
+		{
+			path:"feeds",
+			port:"3037"
+		},
 		// {
 		// 	path:"matrimonies",
 		// 	port:"3038"
