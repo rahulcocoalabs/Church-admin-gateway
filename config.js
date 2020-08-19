@@ -2,47 +2,47 @@ module.exports = {
 	port:3030,
 	routes:  [
 		{
-			path:"accounts",
+			path:"admin/accounts",
 			port:"3031"
 		},
 		{
-			path:"users",
+			path:"admin/users",
 			port:"3032"
 		},
 		{
-			path:"events",
+			path:"admin/events",
 			port:"3033"
 		},
 		{
-			path:"groups",
+			path:"admin/groups",
 			port:"3034"
 		},
 		{
-			path:"masters",
+			path:"admin/masters",
 			port:"3035"
 		},
 		{
-			path:"buyorsell",
+			path:"admin/buyorsell",
 			port:"3036"
 		},
 		{
-			path:"feeds",
+			path:"admin/feeds",
 			port:"3037"
 		},
 		{
-			path:"matrimonies",
+			path:"admin/matrimonies",
 			port:"3038"
 		},
 		{
-			path:"bloodDonation",
+			path:"admin/bloodDonation",
 			port:"3039"
 		},
 		{
-			path:"charities",
+			path:"admin/charities",
 			port:"3040"
 		},
 		{
-			path:"urogulf",
+			path:"admin/urogulf",
 			port:"3041"
 		}
 
