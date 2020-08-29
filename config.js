@@ -52,6 +52,10 @@ module.exports = {
 		{
 			path:"admin/livePrayer",
 			port:"3043"
+		},
+		{
+			path:"admin/ngos",
+			port:"3044"
 		}
 
 
