@@ -56,6 +56,10 @@ module.exports = {
 		{
 			path:"admin/ngos",
 			port:"3044"
+		},{
+			
+			path:"admin/locations",
+			port:"3045"
 		}
 
 
